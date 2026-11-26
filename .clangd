@@ -1,0 +1,11 @@
+CompileFlags:
+  Add:
+    - "-xc"
+    - "-std=c99"
+    - "-ferror-limit=0"
+    - "-Wall"
+    - "-Wextra"
+    - "-g"
+    - "-fstack-protector-strong"
+    - "-D_GNU_SOURCE"
+    - "-DDEBUG"

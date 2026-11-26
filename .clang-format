@@ -1,0 +1,8 @@
+---
+BasedOnStyle: LLVM
+IndentWidth: 2
+NamespaceIndentation: All
+ColumnLimit: 100
+IndentCaseLabels: true
+AllowShortIfStatementsOnASingleLine: true
+---

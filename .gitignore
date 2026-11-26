@@ -1,0 +1,4 @@
+build/
+.cache/
+scripts/release
+scripts/debug
